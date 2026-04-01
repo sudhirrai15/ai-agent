@@ -77,7 +77,9 @@ set ANTHROPIC_API_KEY=sk-ant-...
 python app.py
 ```
 
-Open [http://localhost:5000](http://localhost:5000) in your browser.
+Open [http://localhost:8080](http://localhost:8080) in your browser.
+
+<img width="3806" height="1848" alt="image" src="https://github.com/user-attachments/assets/40c49320-56f6-4589-bd70-e769dd25b8ca" />
 
 ---
 
